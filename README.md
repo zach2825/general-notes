@@ -9,7 +9,7 @@
 
 ## Browsers
 * chrome - https://www.google.com/chrome/browser/features.html
-* vavaldi - https://vivaldi.com/download/
+* vivaldi - https://vivaldi.com/download/
 
 ## Random Web tools
 * Misc formatter - https://www.freeformatter.com/
@@ -80,6 +80,8 @@
 ## Windows tools
 * System wide macros - https://autohotkey.com/
 
-## Liunux tips
+## Linux tips
 * change ssh shell
   * chsh - https://linux.die.net/man/1/chsh
+* check php project for syntax errors
+  * find . -name "*.php" -exec php -l {} \; | grep -v "No";
