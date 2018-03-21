@@ -1,6 +1,3 @@
-/*
-Sample code from a collection of forums and repos
-*/
 #include <Arduino.h>
 #include <AsyncMqttClient.h>
 #include <ESP8266WiFi.h>
