@@ -1,3 +1,5 @@
+# Collection of valuable notes and resources
+
 # IDEs
 * online - https://aws.amazon.com/cloud9/?origin=c9io
 * PHPStorm - https://www.jetbrains.com/phpstorm/specials/phpstorm/phpstorm.html
