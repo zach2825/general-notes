@@ -55,6 +55,7 @@
 
 # Chrome plugins
 * ad blocker - https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?hl=en-US
+* average load tester - https://chrome.google.com/webstore/detail/average-load-time-tester/pflmhongacoepfhkgidighbmppahnljh
 * xdebug helper - https://chrome.google.com/webstore/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc
 * form filler - https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo
 * record codeception functional test - https://chrome.google.com/webstore/detail/codeception-testtools/jhaegbojocomemkcnmnpmoobbmnkijik
