@@ -64,6 +64,7 @@
 # Testing
 * frontend - https://codecept.io
 * backend(PHP) - https://codeception.com/
+* selenium ide - https://www.seleniumhq.org/projects/ide/
 
 # Linux tools
 * kruler - https://www.kde.org/applications/graphics/kruler/
