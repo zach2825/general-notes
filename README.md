@@ -11,6 +11,9 @@
 * chrome - https://www.google.com/chrome/browser/features.html
 * vivaldi - https://vivaldi.com/download/
 
+## Graphics
+- Logos - https://www.canva.com/
+
 ## Random Web tools
 * Misc formatter - https://www.freeformatter.com/
 * page speed - https://developers.google.com/speed/pagespeed/module/
