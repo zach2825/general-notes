@@ -31,7 +31,7 @@ $name = preg_replace('/[^a-zA-Z0-9\-]+/', '', $name);
 
 // Remove duplicate -
 $name = str_replace('--', '-', $name);
-$name = str_replace('--', '-', $name);
+$name = str_replace('--', '-', $name); // This needs to be duplicated to catch remaining instances of -- as a result of the last one
 
 // Remove the trailing -
 // Lowercase the string
