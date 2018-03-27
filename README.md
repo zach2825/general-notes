@@ -12,7 +12,12 @@
 * vivaldi - https://vivaldi.com/download/
 
 ## Graphics
-- Logos - https://www.canva.com/
+* Logos - https://www.canva.com/
+
+## Icons
+* fontawesome - https://fontawesome.com/
+* iconfinder - https://www.iconfinder.com
+* iconarchive - http://www.iconarchive.com
 
 ## Random Web tools
 * Misc formatter - https://www.freeformatter.com/
@@ -88,3 +93,7 @@
   * chsh - https://linux.die.net/man/1/chsh
 * check php project for syntax errors
   * find . -name "*.php" -exec php -l {} \; | grep -v "No";
+
+## Frameworks
+* https://electronjs.org/
+* https://laravel.com/
