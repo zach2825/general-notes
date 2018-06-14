@@ -25,6 +25,7 @@
 
 ## Code tests
 * codewars - http://codewars.com
+* hackerrank - https://www.hackerrank.com/
 
 ## Awesome website templates
 * Homer - http://wrapbootstrap.com/preview/WB055J451
