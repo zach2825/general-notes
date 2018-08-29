@@ -49,7 +49,7 @@
 * aws sdk - https://github.com/aws/aws-sdk-php-laravel
 * gravatar - https://github.com/thomaswelton/laravel-gravatar
 * revisiontable - https://github.com/VentureCraft/revisionable
-* mok full text search - https://github.com/nicolaslopezj/searchable
+* mock full text search - https://github.com/nicolaslopezj/searchable
 * html in blade - https://github.com/laravelcollective/html
 
 ## Useful Jquery plugins
